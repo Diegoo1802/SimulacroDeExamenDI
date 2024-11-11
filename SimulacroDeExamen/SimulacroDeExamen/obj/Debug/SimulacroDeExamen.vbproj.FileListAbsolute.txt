@@ -1,0 +1,12 @@
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.vbproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.pagina_web.resources
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.Resources.resources
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\SimulacroDeExamen.exe.config
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\SimulacroDeExamen.exe
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\SimulacroDeExamen.pdb
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\SimulacroDeExamen.xml
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.exe
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.xml
+C:\Users\Alumno\source\repos\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\SimulacroDeExamen.pdb

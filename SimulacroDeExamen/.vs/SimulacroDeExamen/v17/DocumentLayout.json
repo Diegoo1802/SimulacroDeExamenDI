@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\SimulacroDeExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07462187-CBEF-49A6-8F7B-047FAAA3ECFB}|SimulacroDeExamen\\SimulacroDeExamen.vbproj|c:\\users\\alumno\\source\\repos\\simulacrodeexamen\\simulacrodeexamen\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{07462187-CBEF-49A6-8F7B-047FAAA3ECFB}|SimulacroDeExamen\\SimulacroDeExamen.vbproj|solutionrelative:simulacrodeexamen\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07462187-CBEF-49A6-8F7B-047FAAA3ECFB}|SimulacroDeExamen\\SimulacroDeExamen.vbproj|c:\\users\\alumno\\source\\repos\\simulacrodeexamen\\simulacrodeexamen\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{07462187-CBEF-49A6-8F7B-047FAAA3ECFB}|SimulacroDeExamen\\SimulacroDeExamen.vbproj|solutionrelative:simulacrodeexamen\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\SimulacroDeExamen\\SimulacroDeExamen\\Form1.vb",
+              "RelativeDocumentMoniker": "SimulacroDeExamen\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\SimulacroDeExamen\\SimulacroDeExamen\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "SimulacroDeExamen\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-11T11:49:06.853Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\SimulacroDeExamen\\SimulacroDeExamen\\Form1.vb",
+              "RelativeDocumentMoniker": "SimulacroDeExamen\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\SimulacroDeExamen\\SimulacroDeExamen\\Form1.vb",
+              "RelativeToolTip": "SimulacroDeExamen\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-11T12:20:34.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
