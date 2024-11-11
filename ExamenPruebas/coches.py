@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 # Ventana principal
 root = tk.Tk()
 root.title("App de coches")
-root.geometry("500x500")
+root.geometry("500x600")
 
 # Titulo
 titulo = tk.Label(root, text="CATEGORIAS DE VEHICULOS A MOTOR", font=("Arial", 16))
@@ -49,15 +49,23 @@ def mostrar_categoria(categoria):
         messagebox.showerror("Error", f"No se encuentra la imagen: {imagen_path}")
         imagen_label.config(image='')
 
-# Aqui añadimos los botones
+# Aqui añadimos los botones y area de texto para cada categoría
 botones_frame = tk.Frame(root)
-botones_frame.pack(pady=5)
+botones_frame.pack(pady=10)
 
-# Colocamos los botones en fila
-categorias = ["Camiones", "Coches", "F1", "Motos", "Rally"]
-for i, categoria in enumerate(categorias):
-    boton = ttk.Button(botones_frame, text=categoria, command=lambda c=categoria: mostrar_categoria(c))
-    boton.grid(row=0, column=i, padx=5, pady=5)  # Usamos el grid para organizarlos en una fila
+# Colocamos los botones y el campo de texto por cada categoría
+for categoria in informacion_vehiculos.keys():
+    frame_categoria = tk.Frame(botones_frame)
+    frame_categoria.pack(side="left", padx=10)
+    
+    # Botón de categoría
+    boton = ttk.Button(frame_categoria, text=categoria, command=lambda c=categoria: mostrar_categoria(c))
+    boton.pack()
+    
+    # Campo de texto para escribir información adicional
+    text_area = tk.Text(frame_categoria, height=3, width=20, wrap="word")
+    text_area.insert("end", f"Escribe aquí detalles sobre {categoria}")
+    text_area.pack(pady=5)
 
 # Mostramos la descripción
 descripcion_label = tk.Label(root, text="Selecciona una categoría para ver la información", font=("Arial", 12))
